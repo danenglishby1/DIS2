@@ -1,0 +1,66 @@
+COMP & LOCA Tonnage : 1125.999
+Attempting Update on stock_report : SQL - update stock_report set goods_comp_loca = 1125.999 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Updated
+INSP Tonnage : 791.061
+Attempting Update on stock_report : SQL - update stock_report set goods_insp = 791.061 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+OISP Tonnage : 384.853
+Attempting Update on stock_report : SQL - update stock_report set goods_oisp = 384.853 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+BOOK Tonnage : 8.651
+Attempting Update on stock_report : SQL - update stock_report set goods_make_into_loads = 8.651 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+CUST Tonnage : 3235.988
+Attempting Update on stock_report : SQL - update stock_report set goods_cust_delay = 3235.988 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+DESH Tonnage : 4941.282
+Attempting Update on stock_report : SQL - update stock_report set goods_awaiting_collection = 4941.282 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+SHIP Tonnage : 14.480
+Attempting Update on stock_report : SQL - update stock_report set goods_to_apply_for = 14.480 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+DESX Tonnage : 3609.140
+Attempting Update on stock_report : SQL - update stock_report set goods_waiting_shipping = 3609.140 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'Attempting Update on stock_report : SQL - update stock_report set goods_waiting_collection = 3609.140 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+WDRW Tonnage : 20.666
+Attempting Update on stock_report : SQL - update stock_report set goods_withdraw = 20.666 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+Suspend Tonnage : 0
+Attempting Update on stock_report : SQL - update stock_report set goods_suspend = 0 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+API STK Others Tonnage : 209.686
+Attempting Update on stock_report : SQL - update stock_report set goods_api_stk_others = 209.686 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+COMP & LOCA Tonnage : 1126.908
+Attempting Update on stock_report : SQL - update stock_report set goods_comp_loca = 1126.908 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Updated
+INSP Tonnage : 791.061
+Attempting Update on stock_report : SQL - update stock_report set goods_insp = 791.061 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+OISP Tonnage : 384.853
+Attempting Update on stock_report : SQL - update stock_report set goods_oisp = 384.853 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+BOOK Tonnage : 8.651
+Attempting Update on stock_report : SQL - update stock_report set goods_make_into_loads = 8.651 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+CUST Tonnage : 3235.988
+Attempting Update on stock_report : SQL - update stock_report set goods_cust_delay = 3235.988 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+DESH Tonnage : 4941.282
+Attempting Update on stock_report : SQL - update stock_report set goods_awaiting_collection = 4941.282 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+SHIP Tonnage : 14.480
+Attempting Update on stock_report : SQL - update stock_report set goods_to_apply_for = 14.480 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+DESX Tonnage : 3609.140
+Attempting Update on stock_report : SQL - update stock_report set goods_waiting_shipping = 3609.140 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'Attempting Update on stock_report : SQL - update stock_report set goods_waiting_collection = 3609.140 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+WDRW Tonnage : 20.666
+Attempting Update on stock_report : SQL - update stock_report set goods_withdraw = 20.666 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+Suspend Tonnage : 0
+Attempting Update on stock_report : SQL - update stock_report set goods_suspend = 0 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
+API STK Others Tonnage : 209.686
+Attempting Update on stock_report : SQL - update stock_report set goods_api_stk_others = 209.686 where week_no = 03 and year_no = 2020 and week_month_report_ind = 'W'
+Update Failed or No Change
